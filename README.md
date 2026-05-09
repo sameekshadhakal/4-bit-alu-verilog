@@ -3,7 +3,7 @@
 A simple 4-bit Arithmetic Logic Unit implemented in Verilog with a testbench.
 
 ## Files
-- `alu.v` — ALU design (supports ADD, SUB, AND, OR, etc.)
+- `alu.v` — ALU design (supports ADD, SUB, AND, OR, XOR and NOT.)
 - `alu_tb.v` — Testbench for simulation
 
 ## How to Simulate

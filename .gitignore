@@ -1,0 +1,24 @@
+# ModelSim / QuestaSim simulation outputs
+*.mpf
+*.wlf
+*.log
+work/
+transcript
+vsim.wlf
+*.vcd
+*.ghw
+*.vstf
+
+# Mentor Graphics / Aldec
+*.asdb
+*.ale
+
+# Xilinx
+*.xise
+*.gise
+*.bit
+*.mcs
+
+# OS junk
+.DS_Store
+Thumbs.db
